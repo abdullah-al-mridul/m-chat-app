@@ -1,0 +1,12 @@
+@import "keep-react/lib/cjs/theme/main.min.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.p-password-input {
+  width: 100%;
+  padding: 0.5rem;
+  background: #7077a1;
+  box-shadow: none;
+  color: #2d3250;
+}
